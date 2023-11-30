@@ -24,7 +24,7 @@
             <input type="submit">
         </form>
     </div>
-    <button><a href="/brand">производители</a></button>
+    <a href="/brand">производители</a>
 </body>
 </html>
 

@@ -96,7 +96,7 @@ p{
     padding: 1%;
 }
 
-#forFilter .smthA, .deleteDiv .smthA,.editA, .deleteA, .shureADiv button, input[type='submit']{
+#forFilter .smthA, .deleteDiv .smthA,.editA, .deleteA, .shureADiv button, input[type='submit'], button{
     display: block;
     border-radius: 2px;
     margin: 1% auto;
@@ -107,6 +107,10 @@ p{
     border: none;
     text-decoration: none;
     text-align: center;
+}
+
+button{
+    width: 400px;
 }
 
 table{
@@ -195,4 +199,6 @@ tr td:last-child{
 div h3{
     text-align: center;
 }
+
+
 

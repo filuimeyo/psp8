@@ -39,8 +39,10 @@
         </select>
         <input type="submit">
     </form>
+
+    <a href="/example">назад</a>
 </div>
-<button><a href="/example">назад</a></button>
+
 
 </body>
 </html>

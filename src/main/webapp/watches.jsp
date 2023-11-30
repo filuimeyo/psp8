@@ -51,8 +51,8 @@
         </c:forEach>
     </table>
 
-    <button><a href="/brand">производители</a></button>
-    <button><a href="/editW">добавить</a></button>
+    <a href="/brand">производители</a>
+    <a href="/editW">добавить</a>
 </div>
 
 </body>

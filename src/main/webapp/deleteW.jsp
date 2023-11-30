@@ -40,7 +40,7 @@
 
     </table>
 
-    <button><a href="/example">назад</a></button>
+    <a href="/example">назад</a>
 </div>
 
 

@@ -62,8 +62,8 @@
         </c:forEach>
     </table>
 
-    <button><a href="/example">каталог часов</a></button>
-    <button><a href="/editM">добавить</a></button>
+    <a href="/example">каталог часов</a>
+    <a href="/editM">добавить</a>
 
 </div>
 

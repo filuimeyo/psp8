@@ -44,10 +44,10 @@
 
         </tr>
     </table>
-
+    <a href="/brand">назад</a>
 
 </div>
-<button><a href="/brand">назад</a></button>
+
 
 </body>
 </html>
